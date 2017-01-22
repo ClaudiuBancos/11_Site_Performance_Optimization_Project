@@ -1,3 +1,27 @@
+# My ignored files and folders
+img/100px_avatars/
+img/avatars/
+img/old_avatars/
+img/social/*.png
+img/logo.png
+img/logo_grayscale.png
+img/logo_grayscale.svg
+img/photos/header.jpg
+img/thumbnails/header.jpg
+img/photos/photo10.jpg
+img/thumbnails/photo10.jpg
+img/photos/placeholder.png
+css/Arvo/
+css/arvo.css
+css/Ubuntu/
+css/ubuntu.css
+css/avatarsheet.png
+css/photosheet1.png
+css/photosheet2.png
+js/modal.html
+notes.txt
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

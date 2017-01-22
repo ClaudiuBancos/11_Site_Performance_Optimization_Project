@@ -1,0 +1,111 @@
+.placeholder {
+    opacity: 0;
+}
+
+.sprite {
+    background-image: url(avatarsheet-min.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-avatar1 {
+    width: 50px;
+    height: 50px;
+    background-position: -5px -5px;
+}
+
+.sprite-avatar2 {
+    width: 50px;
+    height: 50px;
+    background-position: -65px -5px;
+}
+
+.sprite-avatar3 {
+    width: 50px;
+    height: 50px;
+    background-position: -5px -65px;
+}
+
+.sprite-avatar5 {
+    width: 50px;
+    height: 50px;
+    background-position: -65px -65px;
+}
+
+.sprite-avatar6 {
+    width: 50px;
+    height: 50px;
+    background-position: -125px -5px;
+}
+
+.sprite-avatar7 {
+    width: 50px;
+    height: 50px;
+    background-position: -125px -65px;
+}
+
+.spriteP1 {
+    background-image: url(photosheet1-min.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-photo1 {
+    width: 405px;
+    height: 270px;
+    background-position: -5px -5px;
+}
+
+.sprite-photo2 {
+    width: 405px;
+    height: 270px;
+    background-position: -420px -5px;
+}
+
+.sprite-photo3 {
+    width: 446px;
+    height: 270px;
+    background-position: -5px -285px;
+}
+
+.sprite-photo4 {
+    width: 405px;
+    height: 273px;
+    background-position: -5px -565px;
+}
+
+.sprite-photo5 {
+    width: 410px;
+    height: 273px;
+    background-position: -420px -565px;
+}
+
+.sprite-photo6 {
+    width: 410px;
+    height: 274px;
+    background-position: -835px -5px;
+}
+
+.spriteP2 {
+    background-image: url(photosheet2-min.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-photo7 {
+    width: 540px;
+    height: 405px;
+    background-position: -5px -5px;
+}
+
+.sprite-photo8 {
+    width: 405px;
+    height: 405px;
+    background-position: -555px -5px;
+}
+
+.sprite-photo9 {
+    width: 608px;
+    height: 405px;
+    background-position: -100px -420px;
+}
